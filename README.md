@@ -16,15 +16,15 @@
   </a>  <a href="https://github.com/jaywcjlove/svgtofont">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=CUHackers&repo=Kanban" />
   </a>
-  
-- 🌱 Skills 
+
+- 🌱 Skills
 
   <img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/javascript/javascript.png" height="80">
   <img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/python/python.png" height="80">
   <img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/java/java.png" height="80">
   <img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/c/c.png" height="80">
   <img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/cpp/cpp.png" height="80">
-  <img src="images/dankmeme.png" height="80">
-  
-  
-## Recent Activities 
+  <img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/cpp/cpp.png" height="80">
+
+
+## Recent Activities
