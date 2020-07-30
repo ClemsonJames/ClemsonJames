@@ -1,16 +1,30 @@
-### Hi there 👋
+# Hi there, welcome to my github page👋
 
-<!--
-**ClemsonJames/ClemsonJames** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<br>
 
-Here are some ideas to get you started:
+## My Github Stats
+
+![My Stats](https://github-readme-stats.vercel.app/api?username=ClemsonJames&show_icons=true&hide_border=true)
+
+
+## About Me
 
 - 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+  <a href="https://github.com/jaywcjlove/svgtofont">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ClemsonJames&repo=LoLMinecraftMod" />
+  </a>  <a href="https://github.com/jaywcjlove/svgtofont">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=CUHackers&repo=Kanban" />
+  </a>
+  
+- 🌱 Skills 
+
+  <img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/javascript/javascript.png" height="80">
+  <img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/python/python.png" height="80">
+  <img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/java/java.png" height="80">
+  <img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/c/c.png" height="80">
+  <img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/cpp/cpp.png" height="80">
+  <img src="images/dankmeme.png" height="80">
+  
+  
+## Recent Activities 
