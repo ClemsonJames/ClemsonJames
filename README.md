@@ -24,7 +24,6 @@
   <img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/java/java.png" height="80">
   <img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/c/c.png" height="80">
   <img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/cpp/cpp.png" height="80">
-  <img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/cpp/cpp.png" height="80">
   <img src="https://raw.githubusercontent.com/ClemsonJames/ClemsonJames/master/asset/dankmeme.png" height="80">
 
 
