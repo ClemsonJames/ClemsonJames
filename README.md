@@ -1,13 +1,12 @@
 # Hi there, welcome to my github page👋
 
-<br>
-
-## My Github Stats
+### My Github Stats
 
 ![My Stats](https://github-readme-stats.vercel.app/api?username=ClemsonJames&show_icons=true&hide_border=true)
 
+---
 
-## About Me
+### About Me
 
 - 🔭 I’m currently working on ...
 
@@ -26,5 +25,7 @@
   <img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/cpp/cpp.png" height="80">
   <img src="https://raw.githubusercontent.com/ClemsonJames/ClemsonJames/master/asset/dankmeme.png" height="80">
 
+---
 
-## Recent Activities
+### Recent Activities
+<!--START_SECTION:activity-->
