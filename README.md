@@ -10,9 +10,9 @@
 
 - 🔭 I’m currently working on ...
 
-  <a href="https://github.com/jaywcjlove/svgtofont">
+  <a href="https://github.com/ClemsonJames/LoLMinecraftMod">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=ClemsonJames&repo=LoLMinecraftMod" />
-  </a>  <a href="https://github.com/jaywcjlove/svgtofont">
+  </a>  <a href="https://github.com/CUHackers/Kanban">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=CUHackers&repo=Kanban" />
   </a>
 
