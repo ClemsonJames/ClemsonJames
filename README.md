@@ -12,8 +12,12 @@
 
   <a href="https://github.com/ClemsonJames/LoLMinecraftMod">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=ClemsonJames&repo=LoLMinecraftMod" />
-  </a>  <a href="https://github.com/CUHackers/Kanban">
+  </a>
+  <a href="https://github.com/CUHackers/Kanban">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=CUHackers&repo=Kanban" />
+  </a>
+  <a href="https://github.com/Clemson-Esports/Clemson-Bot">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Clemson-Esports&repo=Clemson-Bot" />
   </a>
 
 - 🌱 Skills
