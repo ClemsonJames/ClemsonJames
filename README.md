@@ -33,6 +33,6 @@
 
 ### Recent Activities
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#132](https://github.com//techx/quill/issues/132) in [techx/quill](https://github.com//techx/quill)
+1. 🎉 Merged PR [#1](https://github.com//Clemson-Esports/Clemson-Bot/pull/1) in [Clemson-Esports/Clemson-Bot](https://github.com//Clemson-Esports/Clemson-Bot)
 2. 🗣 Commented on [#132](https://github.com//techx/quill/issues/132) in [techx/quill](https://github.com//techx/quill)
 <!--END_SECTION:activity-->
