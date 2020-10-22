@@ -30,6 +30,6 @@
 
 ### Recent Activities
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com//ClemsonJames/Clemson-Bot/pull/1) in [ClemsonJames/Clemson-Bot](https://github.com//ClemsonJames/Clemson-Bot)
-2. 💪 Opened PR [#1](https://github.com//ClemsonJames/Clemson-Bot/pull/1) in [ClemsonJames/Clemson-Bot](https://github.com//ClemsonJames/Clemson-Bot)
+1. 🎉 Merged PR [#19](https://github.com/Clemson-Esports/Clemson-Bot/pull/19) in [Clemson-Esports/Clemson-Bot](https://github.com/Clemson-Esports/Clemson-Bot)
+2. 💪 Opened PR [#19](https://github.com/Clemson-Esports/Clemson-Bot/pull/19) in [Clemson-Esports/Clemson-Bot](https://github.com/Clemson-Esports/Clemson-Bot)
 <!--END_SECTION:activity-->
