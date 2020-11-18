@@ -30,6 +30,6 @@
 
 ### Recent Activities
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#208](https://github.com/ClemsonCPSC-Discord/ClemBot/pull/208) in [ClemsonCPSC-Discord/ClemBot](https://github.com/ClemsonCPSC-Discord/ClemBot)
-2. 🎉 Merged PR [#19](https://github.com/Clemson-Esports/Clemson-Bot/pull/19) in [Clemson-Esports/Clemson-Bot](https://github.com/Clemson-Esports/Clemson-Bot)
+1. 💪 Opened PR [#210](https://github.com/ClemsonCPSC-Discord/ClemBot/pull/210) in [ClemsonCPSC-Discord/ClemBot](https://github.com/ClemsonCPSC-Discord/ClemBot)
+2. 💪 Opened PR [#208](https://github.com/ClemsonCPSC-Discord/ClemBot/pull/208) in [ClemsonCPSC-Discord/ClemBot](https://github.com/ClemsonCPSC-Discord/ClemBot)
 <!--END_SECTION:activity-->
