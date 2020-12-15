@@ -30,6 +30,6 @@
 
 ### Recent Activities
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/CUHackers/Kanban/pull/1) in [CUHackers/Kanban](https://github.com/CUHackers/Kanban)
-2. 💪 Opened PR [#210](https://github.com/ClemsonCPSC-Discord/ClemBot/pull/210) in [ClemsonCPSC-Discord/ClemBot](https://github.com/ClemsonCPSC-Discord/ClemBot)
+1. 🎉 Merged PR [#2](https://github.com/CUHackers/Kanban/pull/2) in [CUHackers/Kanban](https://github.com/CUHackers/Kanban)
+2. 💪 Opened PR [#2](https://github.com/CUHackers/Kanban/pull/2) in [CUHackers/Kanban](https://github.com/CUHackers/Kanban)
 <!--END_SECTION:activity-->
