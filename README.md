@@ -30,6 +30,6 @@
 
 ### Recent Activities
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#2](https://github.com/CUHackers/Kanban/pull/2) in [CUHackers/Kanban](https://github.com/CUHackers/Kanban)
-2. 💪 Opened PR [#2](https://github.com/CUHackers/Kanban/pull/2) in [CUHackers/Kanban](https://github.com/CUHackers/Kanban)
+1. 💪 Opened PR [#1](https://github.com/maxheyn/TorghastTeams/pull/1) in [maxheyn/TorghastTeams](https://github.com/maxheyn/TorghastTeams)
+2. 🎉 Merged PR [#2](https://github.com/CUHackers/Kanban/pull/2) in [CUHackers/Kanban](https://github.com/CUHackers/Kanban)
 <!--END_SECTION:activity-->
