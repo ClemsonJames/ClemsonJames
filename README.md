@@ -30,6 +30,6 @@
 
 ### Recent Activities
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#8](https://github.com/maxheyn/TorghastTeams/pull/8) in [maxheyn/TorghastTeams](https://github.com/maxheyn/TorghastTeams)
-2. 💪 Opened PR [#7](https://github.com/maxheyn/TorghastTeams/pull/7) in [maxheyn/TorghastTeams](https://github.com/maxheyn/TorghastTeams)
+1. 💪 Opened PR [#9](https://github.com/maxheyn/TorghastTeams/pull/9) in [maxheyn/TorghastTeams](https://github.com/maxheyn/TorghastTeams)
+2. 💪 Opened PR [#8](https://github.com/maxheyn/TorghastTeams/pull/8) in [maxheyn/TorghastTeams](https://github.com/maxheyn/TorghastTeams)
 <!--END_SECTION:activity-->
