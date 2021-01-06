@@ -30,6 +30,6 @@
 
 ### Recent Activities
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#12](https://github.com/maxheyn/TorghastTeams/issues/12) in [maxheyn/TorghastTeams](https://github.com/maxheyn/TorghastTeams)
-2. 🗣 Commented on [#12](https://github.com/maxheyn/TorghastTeams/issues/12) in [maxheyn/TorghastTeams](https://github.com/maxheyn/TorghastTeams)
+1. 🎉 Merged PR [#3](https://github.com/CUHackers/Kanban/pull/3) in [CUHackers/Kanban](https://github.com/CUHackers/Kanban)
+2. 💪 Opened PR [#3](https://github.com/CUHackers/Kanban/pull/3) in [CUHackers/Kanban](https://github.com/CUHackers/Kanban)
 <!--END_SECTION:activity-->
